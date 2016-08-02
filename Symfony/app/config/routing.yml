@@ -1,0 +1,7 @@
+curriculum:
+    resource: "@CurriculumBundle/Resources/config/routing.yml"
+    prefix:   /curriculum
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

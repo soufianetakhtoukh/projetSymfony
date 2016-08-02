@@ -1,0 +1,7 @@
+curriculum_homepage:
+    path:     /test
+    defaults: { _controller: CurriculumBundle:Default:ajout }
+
+curriculum_affichepage:
+    path:     /affichage
+    defaults: {_controller: CurriculumBundle:Default:affiche }
